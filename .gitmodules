@@ -1,6 +1,3 @@
-[submodule "submodules/walmart"]
-	path = submodules/walmart
-	url = https://github.com/aiyoub-a/module-walmart.git
 [submodule "module-maersk"]
 	path = module-maersk
 	url = https://github.com/aiyoub-a/module-maersk.git
