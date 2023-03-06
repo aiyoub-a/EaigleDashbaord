@@ -1,2 +1,2 @@
 # eaigle-dashboard
-MODULE A
+MODULE A -> Main
