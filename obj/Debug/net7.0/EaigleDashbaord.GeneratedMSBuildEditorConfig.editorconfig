@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EaigleDashbaord
+build_property.RootNamespace = EaigleDashbaord
+build_property.ProjectDir = d:\EAIGLE\GitHub\EaigleDashbaord\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\EAIGLE\GitHub\EaigleDashbaord
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-maersk/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLW1hZXJza1xQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-b8ze56lppq
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/module-walmart/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bW9kdWxlLXdhbG1hcnRcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3b5jvapidv
+
+[d:/EAIGLE/GitHub/EaigleDashbaord/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-138drndhjy
